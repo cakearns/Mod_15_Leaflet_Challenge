@@ -1,0 +1,7 @@
+Read Me - Unit 15
+Created a function with map layers
+Created a legend with colors
+Created a function for earthquake data
+Used for loop to run through data and assign colors
+Used json for tectonic layer tectoniclayer = L.geoJson(ldata
+
